@@ -76,15 +76,6 @@ employee_id,name,gender,department,hours_worked,hourly_rate,weekly_salary,employ
 EMP1001,John Smith,Male,Carpentry,45,25.50,1196.25,B2,2025-04-09
 EMP1002,Mary Johnson,Female,Electrical,38,42.00,1596.00,A5-F,2025-04-09
 
-RUBRIC COVERAGE
----------------
-✓ Dynamic worker generation
-✓ Proper payment calculations
-✓ Correct level assignments
-✓ Comprehensive error handling
-✓ Dual-language implementation
-✓ Complete documentation
-
 NOTES
 -----
 - All data is randomly generated
